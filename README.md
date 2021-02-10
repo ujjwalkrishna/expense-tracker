@@ -1,5 +1,5 @@
 # Expense-Tracker
-A Expense Tracker created using MERN Stack.
+An Expense Tracker created using MERN Stack.
 
 ## Usage
  npm install
